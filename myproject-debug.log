@@ -1,0 +1,71 @@
+19:55:14,972 DEBUG main Calculator:exec:25 - Read the first argument
+19:55:16,067  INFO main Calculator:exec:29 - Read the operation
+19:55:16,638  INFO main Calculator:exec:33 - Read the second argument
+23:39:49,714 DEBUG main Calculator:exec:25 - Read the first argument
+23:39:51,950  INFO main Calculator:exec:29 - Read the operation
+23:39:52,847  INFO main Calculator:exec:33 - Read the second argument
+23:40:48,294 DEBUG main Calculator:exec:25 - Read the first argument
+23:40:49,761  INFO main Calculator:exec:29 - Read the operation
+23:40:50,388  INFO main Calculator:exec:33 - Read the second argument
+23:40:50,392 ERROR main Calculator:execNumber:19 - divider is 0 
+23:41:04,853 DEBUG main Calculator:exec:25 - Read the first argument
+23:41:05,953  INFO main Calculator:exec:29 - Read the operation
+23:41:06,595  INFO main Calculator:exec:33 - Read the second argument
+23:41:50,972 DEBUG main Calculator:exec:25 - Read the first argument
+23:41:52,116  INFO main Calculator:exec:29 - Read the operation
+23:41:53,280  INFO main Calculator:exec:33 - Read the second argument
+23:41:53,283 ERROR main OperationDivision:execNumber:19 - divider is 0 
+23:42:16,951 DEBUG main Calculator:exec:25 - Read the first argument
+23:42:18,005  INFO main Calculator:exec:29 - Read the operation
+23:42:18,468  INFO main Calculator:exec:33 - Read the second argument
+23:47:58,341  INFO main Calculator:exec:25 - Read the first argument
+23:48:00,924  INFO main Calculator:exec:29 - Read the operation
+23:48:01,380  INFO main Calculator:exec:33 - Read the second argument
+23:48:01,381  INFO main Calculator:exec:37 - Check for nonsense of the first number
+23:48:01,381  INFO main Calculator:exec:40 - Check for nonsense of the second number
+00:24:56,984  INFO main Calculator:exec:25 - Read the first argument
+00:25:02,597  INFO main Calculator:exec:29 - Read the operation
+00:25:05,470  INFO main Calculator:exec:33 - Read the second argument
+00:25:05,471  INFO main Calculator:exec:37 - Check for nonsense of the first number
+00:25:05,471  INFO main Calculator:exec:40 - Check for nonsense of the second number
+00:25:34,704  INFO main Calculator:exec:25 - Read the first argument/n
+00:25:45,428  INFO main Calculator:exec:25 - Read the first argument
+
+00:26:12,456  INFO main Calculator:exec:25 - Read the first argument
+00:26:30,131  INFO main Calculator:exec:29 - Read the operation/n
+00:26:38,772  INFO main Calculator:exec:33 - Read the second argument/n
+00:26:38,772  INFO main Calculator:exec:37 - Check for nonsense of the first number/n
+00:26:38,773  INFO main Calculator:exec:40 - Check for nonsense of the second number/n
+00:26:42,907  INFO main Calculator:exec:25 - Read the first argument
+00:26:44,191  INFO main Calculator:exec:29 - Read the operation/n
+00:26:45,656  INFO main Calculator:exec:33 - Read the second argument/n
+00:26:45,657  INFO main Calculator:exec:37 - Check for nonsense of the first number/n
+00:26:45,657  INFO main Calculator:exec:40 - Check for nonsense of the second number/n
+00:26:45,668 ERROR main OperationDivision:execNumber:19 - divider is 0 
+00:27:45,756  INFO main Calculator:exec:25 - Read the first argument
+00:27:49,504  INFO main Calculator:exec:29 - Read the operation/n
+00:27:54,251  INFO main Calculator:exec:33 - Read the second argument/n
+00:27:54,252  INFO main Calculator:exec:37 - Check for nonsense of the first number/n
+00:27:54,253  INFO main Calculator:exec:40 - Check for nonsense of the second number/n
+00:28:01,188  INFO main Calculator:exec:25 - Read the first argument
+00:28:03,566  INFO main Calculator:exec:29 - Read the operation/n
+00:28:04,149  INFO main Calculator:exec:33 - Read the second argument/n
+00:28:04,150  INFO main Calculator:exec:37 - Check for nonsense of the first number/n
+00:28:04,150  INFO main Calculator:exec:40 - Check for nonsense of the second number/n
+00:28:04,153 ERROR main OperationDivision:execNumber:19 - divider is 0 
+00:39:11,736  INFO main Calculator:exec:25 - Read the first argument
+00:39:14,380  INFO main Calculator:exec:29 - Read the operation
+00:39:15,760  INFO main Calculator:exec:33 - Read the second argument
+21:00:15,869  INFO 2017-09-12 21:00:15,869 Calculator:exec:25 - Read the first argument
+21:00:23,210  INFO 2017-09-12 21:00:23,210 Calculator:exec:29 - Read the operation
+21:00:26,664  INFO 2017-09-12 21:00:26,664 Calculator:exec:33 - Read the second argument
+21:00:26,665  INFO 2017-09-12 21:00:26,665 Calculator:exec:37 - Check for nonsense of the first number
+21:00:26,666  INFO 2017-09-12 21:00:26,666 Calculator:exec:40 - Check for nonsense of the second number
+21:01:04,836  INFO 2017-09-12 21:01:04,836 Calculator:exec:25 - Read the first argument
+21:01:06,701  INFO 2017-09-12 21:01:06,701 Calculator:exec:29 - Read the operation
+21:01:07,386  INFO 2017-09-12 21:01:07,386 Calculator:exec:33 - Read the second argument
+21:01:07,387  INFO 2017-09-12 21:01:07,387 Calculator:exec:37 - Check for nonsense of the first number
+21:01:07,387  INFO 2017-09-12 21:01:07,387 Calculator:exec:40 - Check for nonsense of the second number
+23:50:37,658 ERROR 2017-09-12 23:50:37,658 OperationDivision:execNumber:19 - divider is 0 
+22:01:24,095 ERROR 2017-09-17 22:01:24,095 OperationDivision:execNumber:19 - divider is 0 
+11:48:43,931 ERROR 2017-09-22 11:48:43,931 OperationDivision:execNumber:19 - divider is 0 
